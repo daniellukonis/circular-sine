@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #666;
+}
+
+canvas {
+  /*background-color: #555;*/
+}
